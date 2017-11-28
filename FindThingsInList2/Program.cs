@@ -26,7 +26,7 @@ namespace FindThingsInList2
             // 請用程式數數看，有幾句詩第一個字是「心」
             // 提示: https://msdn.microsoft.com/zh-tw/library/baketfxw(v=vs.110).aspx
             int count_first = 0;
-
+            //////
             Console.WriteLine("有 {0} 句詩第一個字是「心」", count_first);
 
             // 請用程式數數看，有幾句詩最後一個字是「心」
