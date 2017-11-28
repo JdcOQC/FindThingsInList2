@@ -10,6 +10,9 @@ namespace FindThingsInList2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("dd");
+
+            Console.ReadKey();
         }
     }
 }
